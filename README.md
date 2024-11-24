@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DronePilot5600
-- 👀 I’m interested in Hacking and Cybersecurity
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on nothing (im stressed)
-- 📫 How to reach me over Instagram (dp_playzer)
+- 👀 I’m interested in: Hacking and Cybersecurity
+- 🌱 I’m currently learning: C#
+- 💞️ I’m looking to collaborate on: nothing (im stressed)
+- 📫 How to reach me over: Instagram (dp_playzer)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If it runs, it isnt my Code...
 
